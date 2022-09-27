@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
-	Uri="https://github.com/ekt-/AlcubierreDrive/WpfTestApp.Packaging.appinstaller"
-	Version="1.0.3.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Uri="https://ekt-.github.io/AlcubierreDrive/WpfTestApp.Packaging.appinstaller"
+	Version="1.0.4.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="0ff84c86-86bf-4ed9-b865-923c0d684ed7"
-		Version="1.0.3.0"
+		Version="1.0.4.0"
 		Publisher="CN=Michael Okuda"
-		Uri="https://github.com/ekt-/AlcubierreDrive/WpfTestApp.Packaging_1.0.3.0_Test/WpfTestApp.Packaging_1.0.3.0_x64.msixbundle" />
+		Uri="https://ekt-.github.io/AlcubierreDrive/WpfTestApp.Packaging_1.0.4.0_Test/WpfTestApp.Packaging_1.0.4.0_x64.msixbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />
